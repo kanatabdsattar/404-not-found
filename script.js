@@ -8,5 +8,5 @@ dark.onclick = function () {
 };
 
 light.onclick = function () {
-    element.classList.toggle("dark-mode");
+    element.classList.toggle("dark-mode");   
 };
